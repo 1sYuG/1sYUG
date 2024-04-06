@@ -5,5 +5,4 @@
 </p>
 
 - Use of **Debian Linux** operating system.
-- Favorite virtual machines interest: **Qemu/KVM** 
 
