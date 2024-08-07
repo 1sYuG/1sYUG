@@ -5,5 +5,5 @@
 </p>
 
 - Use of **Void Linux** operating system.
-- Desktop and Windows manager *KDE Plasma & DWM/BSPWM*
+- Desktop and Windows manager *KDE Plasma & BSPWM*
 
