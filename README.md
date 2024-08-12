@@ -4,7 +4,7 @@
 </p>
 
 - Use of **Void Linux** operating system.
-- Desktop and Windows manager *XFCE, KDE Plasma & BSPWM*
+- Desktop Favorite *KDE Plasma*
 
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,kali,ubuntu,debian,arch,cmake,gtk,md,obsidian,vscodium,python,docker,powershell)](https://skillicons.dev)
 
