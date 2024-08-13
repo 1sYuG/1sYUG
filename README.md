@@ -9,9 +9,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Use of **Void Linux** operating system.
 - Desktop Favorite *KDE Plasma*
 
+:Whoami: 
+
+```Computer enthusiast, I have advanced knowledge of programming logic and Linux. I quickly learn new things from the computer industry```. 
+
+
 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,kali,ubuntu,debian,arch,cmake,gtk,md,obsidian,vscodium,python,docker,powershell)](https://skillicons.dev)
+
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/1sYuG/ClearStandbyMemory" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1sYuG&repo=ClearStandbyMemory&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
