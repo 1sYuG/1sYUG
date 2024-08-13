@@ -6,6 +6,7 @@
 - Use of **Void Linux** operating system.
 - Desktop Favorite *KDE Plasma*
 
+Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,kali,ubuntu,debian,arch,cmake,gtk,md,obsidian,vscodium,python,docker,powershell)](https://skillicons.dev)
 
 <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
