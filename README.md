@@ -15,9 +15,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,kali,ubuntu,debian,arch,cmake,gtk,md,obsidian,vscodium,python,docker,powershell)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,gtk,md,python,git" />
+  </a>
+</p>
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/1sYuG/ClearStandbyMemory" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=1sYuG&repo=ClearStandbyMemory&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> <div 
@@ -26,8 +28,8 @@ Languages and Tools:
 
 <div align="center">
 
+Social Networks:
+[Mastodon](https://mastodon.social/@SonnetOG) - [X](https://x.com/SrNadie404) - [Codeberg](https://codeberg.org/yug)
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-
-
-
