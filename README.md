@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://github.com/1sYuG/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%white&size=30&center=true&vCenter=true&width=600&height=100&lines=Enthusiastic+Open+Source;❤️‍🔥+Linux+Lover+❤️‍🔥"></a>
 </p>
 
-- Use of **Void Linux** operating system.
-- Desktop/Window Managers Favorite XFCE (x11) - BSPWM (x11) - River (Wayland). 
+- Use of **Void Linux & LMDE** operatings systems.
+- Desktop/Window Managers Favorite XFCE (x11) - BSPWM (x11). 
 
 :Whoami: 
 
