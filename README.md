@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 - Use of **Void Linux & LMDE** operatings systems.
-- Desktop/Window Managers Favorite XFCE (x11) - BSPWM (x11) - CINNAMON (x11). 
+- Desktop/Window Managers Favorite XFCE (x11) - BSPWM (x11). 
 
 :Whoami: 
 
