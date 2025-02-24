@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 - Use of **Void Linux** operating system.
-- Desktop/Windows Managers Favorites Favorite XFCE (x11) / BSPWM - i3-WM.
+- Desktop/Windows Managers Favorites Favorite ***XFCE / BSPWM - i3-WM***.
 
 :Whoami: 
 
