@@ -8,6 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Use of **Void Linux** operating system.
 - Desktop Favorite Linux ***XFCE***.
+- Server Local Distro **Debian** 
 
 :Whoami: 
 
