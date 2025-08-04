@@ -7,8 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 - Use of **Void Linux** operating system.
-- Desktop Favorite Linux ***XFCE***.
-- Server Local Distro **Debian** 
+- Desktop/Windows Managers Favorites Linux ***XFCE***/ ***BSPWM\i3***.
+- My Homelab Distro **Debian** 
 
 :Whoami: 
 
