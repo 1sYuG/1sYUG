@@ -12,13 +12,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 :Whoami: 
 
-```Computer enthusiast, I have advanced knowledge of programming logic and Linux. I quickly learn new things from the computer industry```. 
+```Computer Enthusiast, Beatmaker & Social Engineering Expert. I have advanced knowledge of programming logic and Linux, I quickly learn new things from the computer industry```. 
 
 
 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,gtk,md,python" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,gtk,md" />
   </a>
 </p>
 
