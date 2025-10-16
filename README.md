@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mr. Nobody <h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is YuG aka Mr. Nobody <h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
 
 
 <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
